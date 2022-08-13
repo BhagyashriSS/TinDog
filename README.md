@@ -1,4 +1,4 @@
-Website just like Tinder but for your dogs.
+A fully responsive static website just like Tinder but for your dogs.
 
 live : https://bhagyashriss.github.io/TinDog/
 
